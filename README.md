@@ -158,15 +158,5 @@ If something looks unused, unfinished, or confusing, it likely reflects the real
 
 📄 License
 
-(Add your license here — MIT or Apache-2.0 recommended)
+All rights reserves 
 
-
----
-
-If you want, I can:
-- merge this seamlessly into your **existing README**
-- tighten the tone (more professional / more casual)
-- add a **Backend Overview** section
-- add a **Known Limitations** section
-
-Just tell me.
