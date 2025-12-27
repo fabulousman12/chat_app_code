@@ -43,7 +43,7 @@ I appreciate your patience and understanding. Feel free to open issues or PRs to
 ```bash
 npm install
 
-
+```
 ⚙️ Environment & Platform Setup
 
 This repository contains the core application source, but some files are intentionally not included because they are environment-specific, deployment-specific, or runtime-generated.
